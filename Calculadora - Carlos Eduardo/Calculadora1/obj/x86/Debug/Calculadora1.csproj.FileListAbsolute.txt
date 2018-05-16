@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\Calculadora de vdd (ou quase)\Calculadora1\bin\Debug\Calculadora1.exe
+C:\Users\Aluno\Desktop\Calculadora de vdd (ou quase)\Calculadora1\bin\Debug\Calculadora1.pdb
+C:\Users\Aluno\Desktop\Calculadora de vdd (ou quase)\Calculadora1\obj\x86\Debug\Calculadora.frmCalc.resources
+C:\Users\Aluno\Desktop\Calculadora de vdd (ou quase)\Calculadora1\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Calculadora de vdd (ou quase)\Calculadora1\obj\x86\Debug\Calculadora1.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Calculadora de vdd (ou quase)\Calculadora1\obj\x86\Debug\Calculadora1.exe
+C:\Users\Aluno\Desktop\Calculadora de vdd (ou quase)\Calculadora1\obj\x86\Debug\Calculadora1.pdb
+C:\Users\Aluno\Desktop\Calculadora de vdd (ou quase)\Calculadora1\obj\x86\Debug\Calculadora1.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Calculadora de vdd\Calculadora1\obj\x86\Debug\Calculadora1.exe
+C:\Users\Aluno\Desktop\Calculadora de vdd\Calculadora1\obj\x86\Debug\Calculadora1.pdb
+C:\Users\Aluno\Desktop\Calculadora de vdd\Calculadora1\bin\Debug\Calculadora1.exe
+C:\Users\Aluno\Desktop\Calculadora de vdd\Calculadora1\bin\Debug\Calculadora1.pdb
+C:\Users\Aluno\Desktop\Calculadora de vdd\Calculadora1\obj\x86\Debug\Calculadora1.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Calculadora de vdd\Calculadora1\obj\x86\Debug\Calculadora.frmCalc.resources
+C:\Users\Aluno\Desktop\Calculadora de vdd\Calculadora1\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Calculadora de vdd\Calculadora1\obj\x86\Debug\Calculadora1.csproj.GenerateResource.Cache
